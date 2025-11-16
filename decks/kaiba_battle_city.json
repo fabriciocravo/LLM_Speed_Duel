@@ -1,0 +1,200 @@
+{
+   "main_deck": [
+    "Obelisk the Tormentor",
+    "Blue-Eyes White Dragon",
+    "Blue-Eyes White Dragon",
+    "Blue-Eyes White Dragon",
+    "The King of D.",
+    "Kaiser Sea Horse",
+    "Des Feral Imp",
+    "Ancient Lamp",
+    "La Jinn the Mystical Genie of the Lamp",
+    "X-Head Cannon",
+    "Y-Dragon Head",
+    "Z-Metal Tank",
+    "The Flute of Summoning Dragon",
+    "The Flute of Summoning Dragon",
+    "Dragon Revival Rhapsody",
+    "Trade-In",
+    "Enemy Controller",
+    "Shrink",
+    "Union Hangar",
+    "Champion's Vigilance",
+    "Loop of Destruction",
+    "Shadow Spell",
+    "Union Scramble"
+  ],
+  "extra_deck": [
+    "XYZ-Dragon Cannon",
+    "XY-Dragon Cannon",
+    "XZ-Tank Cannon"
+  ],
+
+  "Obelisk the Tormentor": {
+    "type": "Monster",
+    "monster_type": "Divine-Beast/Effect",
+    "attribute": "DIVINE",
+    "level": 10,
+    "atk": 4000,
+    "def": 4000,
+    "text": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Neither player can target this card with card effects. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. You can Tribute 2 monsters; destroy all monsters your opponent controls. This card cannot declare an attack the turn this effect is activated."
+  },
+  "Blue-Eyes White Dragon": {
+    "type": "Monster",
+    "monster_type": "Dragon/Normal",
+    "attribute": "LIGHT",
+    "level": 8,
+    "atk": 3000,
+    "def": 2500,
+    "text": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale."
+  },
+  "The King of D.": {
+    "type": "Monster",
+    "monster_type": "Spellcaster/Effect",
+    "attribute": "DARK",
+    "level": 4,
+    "atk": 1200,
+    "def": 1100,
+    "text": "This card's name becomes \"Lord of D.\" while on the field. When this card is Normal Summoned: You can discard 1 Spell/Trap; add 1 \"The Flute of Summoning Dragon\", \"The Melody of Awakening Dragon\", or \"Dragon Revival Rhapsody\" from your Deck to your hand."
+  },
+  "Kaiser Sea Horse": {
+    "type": "Monster",
+    "monster_type": "Sea Serpent/Effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "atk": 1700,
+    "def": 1650,
+    "text": "This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT monster."
+  },
+  "Des Feral Imp": {
+    "type": "Monster",
+    "monster_type": "Reptile/Flip/Effect",
+    "attribute": "DARK",
+    "level": 4,
+    "atk": 1600,
+    "def": 1800,
+    "text": "FLIP: Target 1 card in your GY; shuffle that target into the Deck."
+  },
+  "Ancient Lamp": {
+    "type": "Monster",
+    "monster_type": "Spellcaster/Effect",
+    "attribute": "WIND",
+    "level": 3,
+    "atk": 900,
+    "def": 1400,
+    "text": "During your Main Phase: You can Special Summon \"La Jinn the Mystical Genie of the Lamp\" from your hand. This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if this card is being attacked by an opponent's monster, and was face-down at the start of the Damage Step: You can target 1 monster your opponent controls, except the attacking monster; change the attack target to that opponent's monster and perform damage calculation."
+  },
+  "La Jinn the Mystical Genie of the Lamp": {
+    "type": "Monster",
+    "monster_type": "Fiend/Normal",
+    "attribute": "DARK",
+    "level": 4,
+    "atk": 1800,
+    "def": 1000,
+    "text": "A genie of the lamp that is at the beck and call of its master."
+  },
+  "X-Head Cannon": {
+    "type": "Monster",
+    "monster_type": "Machine/Normal",
+    "attribute": "LIGHT",
+    "level": 4,
+    "atk": 1800,
+    "def": 1500,
+    "text": "A monster with a mighty cannon barrel, it is able to integrate its attacks. It attacks in many ways by combining and separating with other monsters."
+  },
+  "Y-Dragon Head": {
+    "type": "Monster",
+    "monster_type": "Machine/Union/Effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "atk": 1500,
+    "def": 1600,
+    "text": "Once per turn, you can either: Target 1 \"X-Head Cannon\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 400 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead."
+  },
+  "Z-Metal Tank": {
+    "type": "Monster",
+    "monster_type": "Machine/Union/Effect",
+    "attribute": "LIGHT",
+    "level": 4,
+    "atk": 1500,
+    "def": 1300,
+    "text": "Once per turn, you can either: Target 1 \"X-Head Cannon\" or \"Y-Dragon Head\" you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card gains 600 ATK/DEF, also if the equipped monster would be destroyed by battle or card effect, destroy this card instead."
+  },
+  "The Flute of Summoning Dragon": {
+    "type": "Spell",
+    "spell_type": "Normal",
+    "text": "Special Summon up to 2 Dragon monsters from your hand. \"Lord of D.\" must be on the field to activate and to resolve this effect."
+  },
+  "Dragon Revival Rhapsody": {
+    "type": "Spell",
+    "spell_type": "Normal",
+    "text": "If you control a Spellcaster monster: You can target up to 2 Dragon monsters in your GY, including at least 1 Normal Monster; Special Summon them, also for the rest of this turn after this card resolves, your opponent takes no damage. You can only activate 1 \"Dragon Revival Rhapsody\" per turn."
+  },
+  "Trade-In": {
+    "type": "Spell",
+    "spell_type": "Normal",
+    "text": "Discard 1 Level 8 monster; draw 2 cards."
+  },
+  "Enemy Controller": {
+    "type": "Spell",
+    "spell_type": "Quick-Play",
+    "text": "Activate 1 of these effects;\n●Target 1 face-up monster your opponent controls; change that target's battle position.\n●Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase."
+  },
+  "Shrink": {
+    "type": "Spell",
+    "spell_type": "Quick-Play",
+    "text": "Target 1 face-up monster on the field; its original ATK becomes halved until the end of this turn."
+  },
+  "Union Hangar": {
+    "type": "Spell",
+    "spell_type": "Field",
+    "text": "When this card is activated: You can add 1 LIGHT Machine Union monster from your Deck to your hand. Once per turn, if a LIGHT Machine Union monster(s) is Normal or Special Summoned to your field (except during the Damage Step): You can target 1 of those monsters; equip 1 appropriate LIGHT Machine Union monster, with a different name, from your Deck to that monster, but the Union monster you equipped cannot be Special Summoned this turn. You can only activate 1 \"Union Hangar\" per turn."
+  },
+  "Champion's Vigilance": {
+    "type": "Trap",
+    "trap_type": "Counter",
+    "text": "If you control a Level 7 or higher Normal Monster, when a monster(s) would be Summoned OR a Spell/Trap Card is activated: Negate the Summon or activation, and if you do, destroy that card."
+  },
+  "Loop of Destruction": {
+    "type": "Trap",
+    "trap_type": "Continuous",
+    "text": "This card's name becomes \"Ring of Destruction\" while on the field. Once per turn, if a monster(s) on the field is destroyed by card effect (except during the Damage Step): You can target 1 monster on the field; destroy it, and if you do, each player takes 500 damage."
+  },
+  "Shadow Spell": {
+    "type": "Trap",
+    "trap_type": "Continuous",
+    "text": "Activate this card by targeting 1 face-up monster your opponent controls; it loses 700 ATK, also it cannot attack or change its battle position. When it leaves the field, destroy this card."
+  },
+  "Union Scramble": {
+    "type": "Trap",
+    "trap_type": "Normal",
+    "text": "Target up to 3 of your banished LIGHT Machine Normal Monsters and/or LIGHT Machine Union monsters; Special Summon them. During either player's turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 of your banished LIGHT Machine Normal Monsters or LIGHT Machine Union monsters; return it to the hand. You can only activate 1 \"Union Scramble\" per turn."
+  },
+  "XYZ-Dragon Cannon": {
+    "type": "Monster",
+    "monster_type": "Machine/Fusion/Effect",
+    "attribute": "LIGHT",
+    "level": 8,
+    "atk": 2800,
+    "def": 2600,
+    "text": "\"X-Head Cannon\" + \"Y-Dragon Head\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 card your opponent controls; destroy that target."
+  },
+  "XY-Dragon Cannon": {
+    "type": "Monster",
+    "monster_type": "Machine/Fusion/Effect",
+    "attribute": "LIGHT",
+    "level": 6,
+    "atk": 2200,
+    "def": 1900,
+    "text": "\"X-Head Cannon\" + \"Y-Dragon Head\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 face-up Spell/Trap your opponent controls; destroy that target."
+  },
+  "XZ-Tank Cannon": {
+    "type": "Monster",
+    "monster_type": "Machine/Fusion/Effect",
+    "attribute": "LIGHT",
+    "level": 6,
+    "atk": 2400,
+    "def": 2100,
+    "text": "\"X-Head Cannon\" + \"Z-Metal Tank\"\nMust first be Special Summoned (from your Extra Deck) by banishing the above cards you control. Cannot be Special Summoned from the GY. You can discard 1 card, then target 1 face-down Spell/Trap your opponent controls; destroy that target."
+  }
+}
